@@ -1,6 +1,6 @@
 # Education
 
-All of the tweaks and ethical *l*acks in Education platforms,like Kahoot,Blooket,and Quizlet.
+All of the tweaks and ethical *whacks* in Education platforms,like Kahoot,Blooket,and Quizlet.
 
 <details>
 <summary>Kahoot Spammer!</summary>
